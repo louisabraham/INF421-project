@@ -40,6 +40,6 @@ number_of_random_tests:
 
 # Thanks
 
-- Benjamin Doerr for the course [INF421: Design and Analysis of Algorithms](https://www.enseignement.polytechnique.fr/informatique/INF421/).
-- Adrian Kosowski for the assignment topic and the evaluation.
+- [Benjamin Doerr](http://people.mpi-inf.mpg.de/~doerr/) for the course [INF421: Design and Analysis of Algorithms](https://www.enseignement.polytechnique.fr/informatique/INF421/).
+- [Adrian Kosowski](https://www.irif.fr/~kosowski/) for the assignment topic and the evaluation.
 - The whole team of [Road/Transportation network project at Gang](https://files.inria.fr/gang/road/).
