@@ -4,6 +4,8 @@
 
 *January 2017*
 
+![](https://raw.githubusercontent.com/louisabraham/INF421-project/master/results/figure2.png)
+
 Assignment url: https://www.irif.fr/~kosowski/INF421-2016/problem.html
 
 Take a look at the [PDF report](https://github.com/louisabraham/INF421-project/blob/master/report/Report.pdf)!
